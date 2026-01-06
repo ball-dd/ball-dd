@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
-  <h1>Hey there! I'm Prabesh 👋</h1>
+  <h1>Hey there! I'm Prabesh </h1>
 </p>
 
 <p align="center">
